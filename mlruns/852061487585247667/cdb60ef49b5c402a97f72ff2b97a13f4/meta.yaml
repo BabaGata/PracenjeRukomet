@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vujic/Desktop/D_3_semestar/Racunalni_vid/Pracenje_objekata/mlruns/852061487585247667/cdb60ef49b5c402a97f72ff2b97a13f4/artifacts
+end_time: 1738279413128
+entry_point_name: ''
+experiment_id: '852061487585247667'
+lifecycle_stage: active
+run_id: cdb60ef49b5c402a97f72ff2b97a13f4
+run_name: sassy-yak-431
+run_uuid: cdb60ef49b5c402a97f72ff2b97a13f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738279412593
+status: 3
+tags: []
+user_id: vujic

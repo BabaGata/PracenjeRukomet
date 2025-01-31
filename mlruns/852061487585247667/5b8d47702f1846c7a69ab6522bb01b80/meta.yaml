@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vujic/Desktop/D_3_semestar/Racunalni_vid/Pracenje_objekata/mlruns/852061487585247667/5b8d47702f1846c7a69ab6522bb01b80/artifacts
+end_time: 1738276459485
+entry_point_name: ''
+experiment_id: '852061487585247667'
+lifecycle_stage: active
+run_id: 5b8d47702f1846c7a69ab6522bb01b80
+run_name: resilient-koi-907
+run_uuid: 5b8d47702f1846c7a69ab6522bb01b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738276456648
+status: 3
+tags: []
+user_id: vujic
